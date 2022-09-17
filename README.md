@@ -1,4 +1,4 @@
-# image recognition model for traffic symbol 
+# Image recognition model for traffic symbols
 
 
-this is a repository related to my value added course
+this is a repository related to my projects 
